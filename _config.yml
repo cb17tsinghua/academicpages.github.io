@@ -73,8 +73,33 @@ author:
   pubmed           : "https://dblp.uni-trier.de/pid/22/5523-11.html"
   googlescholar    : "https://scholar.google.com.hk/citations?user=Yl0wv7AAAAAJ&hl=zh-CN"
   email            :  cb17@tsinghua.org.cn
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+ researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
   
 
 
