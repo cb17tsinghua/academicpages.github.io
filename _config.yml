@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : ""
+locale                   : "en-US"
 title                    : "Bin Chen (cb17@tsinghua.org.com)"
 title_separator          : "-"
 name                     : &name "Bin Chen"
@@ -73,7 +73,7 @@ author:
   pubmed           : "https://dblp.uni-trier.de/pid/22/5523-11.html"
   googlescholar    : "https://scholar.google.com.hk/citations?user=Yl0wv7AAAAAJ&hl=zh-CN"
   email            :  cb17@tsinghua.org.cn
- researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -186,15 +186,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _academic serverce
-  - scope:
-      path: ""
-      type: academic serverce
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
